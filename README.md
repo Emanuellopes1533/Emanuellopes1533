@@ -1,0 +1,5 @@
+- 👋 ola, sou @Emanue do nascimento lopes da silva 
+- 👀 estou aprendendo pensamento computacional 
+- 🌱 estou começando githb
+- 💞️ estou trabalhando no github, html, css
+- 📫 email: silva.emanuel22@escola.pr.gov.br
